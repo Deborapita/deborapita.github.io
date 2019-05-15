@@ -1,5 +1,4 @@
-@import url ("https://fonts.googleapis.com/css?family=Akronim");
-$mytype:  "Akronim", cursive;
+$mytype: "Akronim", cursive;
 
 body {
     font-family: $mytype;
@@ -7,6 +6,6 @@ body {
 }
 
 @mixin cordeletra {
-	color:
+	color: #fff;
 
 }
